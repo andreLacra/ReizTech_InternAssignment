@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReizTech_InternAssignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f45946f9f22e059f356ca8d3c97e16954faffb7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReizTech_InternAssignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReizTech_InternAssignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,3 +13,4 @@ D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\obj\Debug\net8.0\refi
 D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\obj\Debug\net8.0\ReizTech_InternAssignment.pdb
 D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\obj\Debug\net8.0\ReizTech_InternAssignment.genruntimeconfig.cache
 D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\obj\Debug\net8.0\ref\ReizTech_InternAssignment.dll
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\obj\Debug\net8.0\ReizTech_InternAssignment.sourcelink.json
