@@ -1,0 +1,16 @@
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 1\bin\Debug\net8.0\problem 1.exe
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 1\bin\Debug\net8.0\problem 1.deps.json
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 1\bin\Debug\net8.0\problem 1.runtimeconfig.json
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 1\bin\Debug\net8.0\problem 1.dll
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 1\bin\Debug\net8.0\problem 1.pdb
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 1\obj\Debug\net8.0\problem 1.csproj.AssemblyReference.cache
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 1\obj\Debug\net8.0\problem 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 1\obj\Debug\net8.0\problem 1.AssemblyInfoInputs.cache
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 1\obj\Debug\net8.0\problem 1.AssemblyInfo.cs
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 1\obj\Debug\net8.0\problem 1.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 1\obj\Debug\net8.0\problem 1.sourcelink.json
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 1\obj\Debug\net8.0\problem 1.dll
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 1\obj\Debug\net8.0\refint\problem 1.dll
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 1\obj\Debug\net8.0\problem 1.pdb
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 1\obj\Debug\net8.0\problem 1.genruntimeconfig.cache
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 1\obj\Debug\net8.0\ref\problem 1.dll

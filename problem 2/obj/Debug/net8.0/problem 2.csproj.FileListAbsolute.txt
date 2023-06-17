@@ -1,0 +1,16 @@
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 2\obj\Debug\net8.0\problem 2.csproj.AssemblyReference.cache
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 2\obj\Debug\net8.0\problem 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 2\obj\Debug\net8.0\problem 2.AssemblyInfoInputs.cache
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 2\obj\Debug\net8.0\problem 2.AssemblyInfo.cs
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 2\obj\Debug\net8.0\problem 2.csproj.CoreCompileInputs.cache
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 2\obj\Debug\net8.0\problem 2.sourcelink.json
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 2\bin\Debug\net8.0\problem 2.exe
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 2\bin\Debug\net8.0\problem 2.deps.json
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 2\bin\Debug\net8.0\problem 2.runtimeconfig.json
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 2\bin\Debug\net8.0\problem 2.dll
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 2\bin\Debug\net8.0\problem 2.pdb
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 2\obj\Debug\net8.0\problem 2.dll
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 2\obj\Debug\net8.0\refint\problem 2.dll
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 2\obj\Debug\net8.0\problem 2.pdb
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 2\obj\Debug\net8.0\problem 2.genruntimeconfig.cache
+D:\Visual Studio Code\.NET Files\ReizTech_InternAssignment\problem 2\obj\Debug\net8.0\ref\problem 2.dll
