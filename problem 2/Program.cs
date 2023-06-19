@@ -2,13 +2,12 @@
 
 namespace problem2
 {
-
     public class Node
     {
-        public int data;
+        public char data;
         public Node left, middle, right;
 
-        public Node(int item)
+        public Node(char item)
         {
             data = item;
             left = middle = right = null;
@@ -20,7 +19,7 @@ namespace problem2
 
         public int depth(Node node)
         {
-            if (node == null)  // will return 0 if tree is empty
+            if (node == null)  // will return 0 if node is empty
             {
                 return 0;
             }
@@ -50,21 +49,21 @@ namespace problem2
             Branch structure = new Branch();
 
             // root
-            structure.root = new Node(1);
-
-            // right branch
-            structure.root.left = new Node(2);
-            structure.root.left.left = new Node(3);
+            structure.root = new Node('a');
 
             // left branch
-            structure.root.right = new Node(4);
-            structure.root.right.left = new Node(5);
-            structure.root.right.middle = new Node(6);
-            structure.root.right.right = new Node(7);
-            structure.root.right.left.left = new Node(8);
-            structure.root.right.middle.left = new Node(9);
-            structure.root.right.middle.left.left = new Node(10);
-            structure.root.right.middle.right = new Node(11);
+            structure.root.left = new Node('a');
+            structure.root.left.left = new Node('c');
+
+            // right branch
+            structure.root.right = new Node('d');
+            structure.root.right.left = new Node('e');
+            structure.root.right.middle = new Node('f');
+            structure.root.right.right = new Node('g');
+            structure.root.right.left.left = new Node('h');
+            structure.root.right.middle.left = new Node('i');
+            structure.root.right.middle.left.left = new Node('j');
+            structure.root.right.middle.right = new Node('k');
 
             Console.WriteLine("\n===========\nDepth: {0}\n===========", structure.depth(structure.root));
 
