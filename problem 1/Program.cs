@@ -6,7 +6,7 @@
         {
             // problem 1 
             double sampleTest1 = angleHourMinute(11, 15);  //angleHourMinute(hour, minute)
-            Console.WriteLine(sampleTest1);
+            Console.WriteLine("{0} Degrees.", sampleTest1);
         }
 
         // problem 1
